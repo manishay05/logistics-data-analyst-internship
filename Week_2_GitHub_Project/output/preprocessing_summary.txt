@@ -1,0 +1,36 @@
+WEEK 2 PREPROCESSING SUMMARY
+==============================
+Raw rows: 303
+Raw columns: 9
+Duplicate rows removed: 3
+
+Missing values before cleaning:
+shipment_id            0
+shipment_volume        0
+distance_km            0
+transport_cost        16
+warehouse_load_pct     0
+weather_risk           0
+traffic_index         10
+shipping_mode          0
+delivery_days          0
+
+Missing values after cleaning:
+shipment_id                   0
+shipment_volume               0
+distance_km                   0
+transport_cost                0
+warehouse_load_pct            0
+weather_risk                  0
+traffic_index                 0
+delivery_days                 0
+shipping_mode_First Class     0
+shipping_mode_Same Day        0
+shipping_mode_Second Class    0
+shipping_mode_Standard        0
+
+Transport-cost IQR lower bound: -2887.15
+Transport-cost IQR upper bound: 13454.64
+Transport-cost outliers capped: 4
+
+Final dataset shape: (300, 12)
