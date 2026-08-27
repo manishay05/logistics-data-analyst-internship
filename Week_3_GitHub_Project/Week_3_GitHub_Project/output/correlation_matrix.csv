@@ -1,0 +1,8 @@
+,shipment_volume,distance_km,transport_cost,warehouse_load_pct,weather_risk,traffic_index,delivery_days
+shipment_volume,1.0,-0.011,-0.007,-0.008,-0.073,-0.0,-0.058
+distance_km,-0.011,1.0,0.011,-0.02,0.012,0.045,0.454
+transport_cost,-0.007,0.011,1.0,0.002,-0.018,-0.015,-0.075
+warehouse_load_pct,-0.008,-0.02,0.002,1.0,-0.009,-0.024,0.03
+weather_risk,-0.073,0.012,-0.018,-0.009,1.0,0.02,0.424
+traffic_index,-0.0,0.045,-0.015,-0.024,0.02,1.0,0.334
+delivery_days,-0.058,0.454,-0.075,0.03,0.424,0.334,1.0

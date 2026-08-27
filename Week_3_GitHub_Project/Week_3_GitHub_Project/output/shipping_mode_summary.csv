@@ -1,0 +1,5 @@
+shipping_mode,count,mean,median,std
+First Class,176,3.63,3.6,1.12
+Same Day,86,2.86,2.73,1.27
+Second Class,240,4.72,4.72,1.21
+Standard,498,5.41,5.46,1.24
