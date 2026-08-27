@@ -1,0 +1,8 @@
+model,metric,value
+Delivery Time Regression,MAE_days,0.5994724629988476
+Delivery Time Regression,RMSE_days,0.7438755341796017
+Delivery Time Regression,R2,0.7532406220238546
+On-Time Classification,Accuracy,0.8083333333333333
+On-Time Classification,Precision,0.8115942028985508
+On-Time Classification,Recall,0.8484848484848485
+On-Time Classification,F1,0.8296296296296296

@@ -1,0 +1,5 @@
+shipment_volume,distance_km,warehouse_load_pct,weather_risk,traffic_index,shipping_mode,predicted_delivery_days
+180,650,72,1,55,Same Day,2.5496366137566144
+180,650,72,1,55,First Class,3.460162706678704
+180,650,72,1,55,Second Class,3.826520652203488
+180,650,72,1,55,Standard,4.627061055283374

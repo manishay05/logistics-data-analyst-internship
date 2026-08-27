@@ -1,0 +1,2 @@
+shipment_volume,distance_km,warehouse_load_pct,weather_risk,traffic_index,shipping_mode,predicted_delivery_days,predicted_on_time
+180,650,72,1,55,First Class,3.460162706678704,1
